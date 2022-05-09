@@ -12,7 +12,7 @@ I learn React and practice coding my own custom hooks
 
 # 2. (useLSReducer - useReducer, useNavigateWithAPI)
 
-=> This first section of custom hooks I coded it myself
+=> This second section of custom hooks I code it myself
 
 - useNavigateWithAPI custom hook (check "useNavigateWithAPI.jsx" - I write some comments on how to use this custom hook in it's own file)
 - LocalStorage (useReducer) custom hook (check "useLSReducer.jsx")
